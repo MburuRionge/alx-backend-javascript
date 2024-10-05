@@ -1,4 +1,3 @@
-
 export default class Building {
   constructor(sqft) {
     if (new.target !== Building && new.target.prototype.evacuationWarningMessage === undefined) {
