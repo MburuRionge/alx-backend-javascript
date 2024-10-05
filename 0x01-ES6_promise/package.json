@@ -1,0 +1,28 @@
+{
+  "scripts": {
+    "lint": "eslint",
+    "check-lint": "lint [0-9]*.js",
+    "dev": "npx babel-node",
+    "test": "jest",
+    "full-test": "eslint [0-9]*.js && jest"
+  },
+  "devDependencies": {
+    "@babel/cli": "^7.25.7",
+    "@babel/core": "^7.25.7",
+    "@babel/node": "^7.25.7",
+    "@babel/preset-env": "^7.25.7",
+    "eslint": "^6.8.0",
+    "eslint-config-airbnb-base": "^14.0.0",
+    "eslint-plugin-import": "^2.18.2",
+    "eslint-plugin-jest": "^28.8.3",
+    "jest": "^29.7.0"
+  },
+  "name": "0x01-ES6_promise",
+  "description": "0x01. ES6 Promises JavaScript ES6  Weight: 1  Ongoing second chance project - started Oct 1, 2024 11:00 AM, must end by Oct 5, 2024 11:00 AM  An auto review will be launched at the deadline In a nutshell… Auto QA review: 0.0/26 mandatory & 0.0/4 optional Altogether:  0.0% Mandatory: 0.0% Optional: 0.0% Calculation:  0.0% + (0.0% * 0.0%)  == 0.0%",
+  "version": "1.0.0",
+  "main": ".eslintrc.js",
+  "dependencies": {},
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
