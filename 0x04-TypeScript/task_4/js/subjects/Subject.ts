@@ -1,0 +1,1 @@
+import Subjects from './Teacher';
