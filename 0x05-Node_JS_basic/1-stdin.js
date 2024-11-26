@@ -2,8 +2,8 @@ const readline = require('readline');
 
 //create an interface to read input from the user
 const rl = readline.createInterface({
-    input: Process.stdin,
-    output: Process.stdout
+    input: process.stdin,
+    output: process.stdout
 });
 
 //display the welcome message
